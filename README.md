@@ -1,2 +1,0 @@
-# Frigo
-Social Networking App
